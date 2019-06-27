@@ -1,0 +1,14 @@
+{
+    "private": {
+        "awscloudformation": {
+            "AuthRoleName": "todotest-private-20190627121516-authRole",
+            "UnauthRoleArn": "arn:aws:iam::024564360076:role/todotest-private-20190627121516-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::024564360076:role/todotest-private-20190627121516-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "todotest-private-20190627121516-deployment",
+            "UnauthRoleName": "todotest-private-20190627121516-unauthRole",
+            "StackName": "todotest-private-20190627121516",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:024564360076:stack/todotest-private-20190627121516/c92c0e80-9889-11e9-a082-0a8788cf6370"
+        }
+    }
+}
